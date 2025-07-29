@@ -78,8 +78,9 @@ Contains sales representative names and their regions.
 - Use a Line Chart to display trends.
 - Apply slicers for interactive filtering.
 
-**📸 Screenshot:**  
-![Segment Analysis](Images/Segment Wise Analysis.png)
+### 📍 Segment-Wise Sales Share
+![Segment-Wise Sales](Images/Segment-Wise-Analysis.png)
+
 ---
 
 ### 3. Category-Wise Profit
@@ -91,8 +92,8 @@ Contains sales representative names and their regions.
 - Visualize with a Bar Chart.
 - Add slicers for interactivity.
 
-**📸 Screenshot:**  
-![Category Analysis](Images/Category Wise Analysis.png)
+### 📍 Category-Wise Profit
+![Category Analysis](Images/Category-Wise-Analysis.png)
 ---
 
 ### 4. Segment-Wise Sales Share (%)
@@ -103,8 +104,8 @@ Contains sales representative names and their regions.
 - Calculate percentage using formula.
 - Display with Pie/Donut Chart and labels.
 
-**📸 Screenshot:**  
-![Bottom Subcategories](Images/Bottom 5 Subcategory.png)
+### 📍 Subcategory Sales Contribution
+![Subcategory Contribution](Images/Top 10 Subcategory and their Sales Contribution.png)
 ---
 
 ### 5. Sales by Country
@@ -115,8 +116,9 @@ Contains sales representative names and their regions.
 - Sort descending.
 - Apply Heatmap or use Map Chart.
 
-**📸 Screenshot:**  
-![Country Sales](Images/Top 10 Country by Sales.png)
+### 📍 Top 10 Countries by Sales
+![Top 10 Countries](Images/Top-10-Country-Sales.png)
+
 ---
 
 ### 6. Top 5 Subcategories
@@ -128,8 +130,12 @@ Contains sales representative names and their regions.
 - Filter Top 5.
 - Visualize using Column Chart.
 
-**📸 Screenshot:**  
-![Top Subcategories](Images/Top 5 Subcategory.png)
+### 📍 Top 5 Subcategories
+![Top 5 Subcategories](Images/Top-5-Subcategory.png)
+
+### 📍 Bottom 5 Subcategories
+![Bottom 5 Subcategories](Images/Bottom-5-Subcategory.png)
+
 ---
 
 ## ⚙️ Dynamic Features
