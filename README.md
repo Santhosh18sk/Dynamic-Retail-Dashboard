@@ -65,7 +65,7 @@ Contains sales representative names and their regions.
 - Build a dynamic KPI table using symbols for visual appeal.
 
 **📸 Screenshot:**  
-![KPI Summary](images/kpi-summary.png)
+![KPI Summary](Images/Important KPI.png)
 
 ---
 
@@ -79,8 +79,7 @@ Contains sales representative names and their regions.
 - Apply slicers for interactive filtering.
 
 **📸 Screenshot:**  
-![Sales Trend](images/sales-trend.png)
-
+![Segment Analysis](Images/Segment Wise Analysis.png)
 ---
 
 ### 3. Category-Wise Profit
@@ -93,8 +92,7 @@ Contains sales representative names and their regions.
 - Add slicers for interactivity.
 
 **📸 Screenshot:**  
-![Category Profit](images/category-profit.png)
-
+![Category Analysis](Images/Category Wise Analysis.png)
 ---
 
 ### 4. Segment-Wise Sales Share (%)
@@ -106,8 +104,7 @@ Contains sales representative names and their regions.
 - Display with Pie/Donut Chart and labels.
 
 **📸 Screenshot:**  
-![Segment Share](images/segment-wise-sales.png)
-
+![Bottom Subcategories](Images/Bottom 5 Subcategory.png)
 ---
 
 ### 5. Sales by Country
@@ -119,8 +116,7 @@ Contains sales representative names and their regions.
 - Apply Heatmap or use Map Chart.
 
 **📸 Screenshot:**  
-![Country Sales](images/sales-by-country.png)
-
+![Country Sales](Images/Top 10 Country by Sales.png)
 ---
 
 ### 6. Top 5 Subcategories
@@ -133,8 +129,7 @@ Contains sales representative names and their regions.
 - Visualize using Column Chart.
 
 **📸 Screenshot:**  
-![Top Subcategories](images/top-subcategories.png)
-
+![Top Subcategories](Images/Top 5 Subcategory.png)
 ---
 
 ## ⚙️ Dynamic Features
