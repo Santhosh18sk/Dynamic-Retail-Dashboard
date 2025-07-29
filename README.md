@@ -64,8 +64,8 @@ Contains sales representative names and their regions.
   - `Total Quantity = SUM(Quantity)`
 - Build a dynamic KPI table using symbols for visual appeal.
 
-**📸 Screenshot:**  
-![KPI Summary](Images/Important KPI.png)
+### 📍 KPI Summary
+![KPI Summary](Images/Important-KPI.png)
 
 ---
 
