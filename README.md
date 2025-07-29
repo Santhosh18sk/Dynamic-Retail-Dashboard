@@ -105,7 +105,8 @@ Contains sales representative names and their regions.
 - Display with Pie/Donut Chart and labels.
 
 ### 📍 Subcategory Sales Contribution
-![Subcategory Contribution](Images/Top 10 Subcategory and their Sales Contribution.png)
+![Subcategory Contribution](Images/Top-10-Subcategory-and-Sales-Contribution.png)
+
 ---
 
 ### 5. Sales by Country
